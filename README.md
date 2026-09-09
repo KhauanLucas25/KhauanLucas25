@@ -1,4 +1,4 @@
-## Oi!! 👋
+## Hello!! 👋
 
 **Khauan Lucas** — sou um estudante de Engenharia de Software me aventurando em IoT/Cloud.
 
