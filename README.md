@@ -1,10 +1,10 @@
 ## 🤙 Olá, meu nome é Khauan Lucas!
 
-Faça uma breve apresentação sobre você e a sua stack.
+E aí! Sou o Khauan, estudante de Engenharia de Software com foco em Sistemas Embarcados, IoT e Cloud. Basicamente, gosto de fazer o mundo físico conversar com a internet usando microcontroladores.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Atualmente desenvolvi o "Guardião", um sistema embarcado de proteção e monitoramento térmico para sistemas de refrigeração. O projeto simula controles de temperatura e envia alertas em tempo real direto para a nuvem através da AWS IoT Core, utilizando o protocolo MQTT com segurança TLS. É a aplicação prática da minha stack para integrar hardware à cloud e evitar perdas por falhas em freezers.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khauan-lucas-61b59a367) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khauanlucas7@gmail.com)
 
 ---
 
@@ -21,6 +21,10 @@ Faça uma breve apresentação sobre você e a sua stack.
 **Cloud**
 
 <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+**Ferramentas:**
+
+<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src= "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> <img src= "https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 ---
 
 ## ⭐ GitHub Stats
